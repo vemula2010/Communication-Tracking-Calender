@@ -15,6 +15,3 @@ This React-based Calendar Application helps track communications with companies.
 
 - Frontend: React, React-bootstrap, and React Calendar.
 
-## Setup Instructions
-
-1. Clone the repository: https://github.com/anmolkumar1001/Communication-Tracking-Calendar.git
